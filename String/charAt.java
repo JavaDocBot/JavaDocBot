@@ -1,4 +1,4 @@
-//Демонстрация работы метода charAt
+//Извлечение символов, демонстрация работы метода charAt
 
 public class Main {
     public static void main(String[] args) {
