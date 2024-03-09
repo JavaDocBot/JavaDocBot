@@ -1,3 +1,5 @@
+// Демонстрация записи данных в файл
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
