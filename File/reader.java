@@ -1,3 +1,5 @@
+// Демонстрация чтения данных из файла
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
