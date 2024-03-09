@@ -1,3 +1,5 @@
+// Демонстрация создания и переименования файла
+
 import java.io.File;
 import java.io.IOException;
 
