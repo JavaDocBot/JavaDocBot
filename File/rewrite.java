@@ -1,3 +1,5 @@
+// Демонстрация перезаписи в файл
+
 import java.io.*;
 import java.util.Scanner;
 
