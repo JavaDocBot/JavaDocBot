@@ -1,3 +1,5 @@
+// Демонстрация поиска данных в файле
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
