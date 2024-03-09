@@ -1,3 +1,5 @@
+// Демонстрация работы ArrayDeque
+
 import java.util.ArrayDeque;
 
 class Main {
