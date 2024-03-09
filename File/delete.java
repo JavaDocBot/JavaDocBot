@@ -1,3 +1,5 @@
+// Демонстрация удаления файла
+
 public class Main {
     public static void main(String[] args) {
             // Запрос на удаление файла Test1.txt
